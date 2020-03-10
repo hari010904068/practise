@@ -1,1 +1,3 @@
-# practise
+# practice
+
+corrected the spelling error
